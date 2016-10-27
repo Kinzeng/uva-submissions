@@ -3,7 +3,7 @@ import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.util.PriorityQueue;
 
-class uva929 {
+public class uva929 {
 	static int[] dx = {-1, 0, 1, 0};
 	static int[] dy = {0, -1, 0, 1};
 	
