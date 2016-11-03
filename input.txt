@@ -1,304 +1,42 @@
 1
-100
-aaaaaaaaaaaa
-aaaaaaaaaaab
-aaaaaaaaaaac
-aaaaaaaaaaad
-aaaaaaaaaaba
-aaaaaaaaaabb
-aaaaaaaaaabc
-aaaaaaaaaabd
-aaaaaaaaaaca
-aaaaaaaaaacb
-aaaaaaaaaacc
-aaaaaaaaaacd
-aaaaaaaaaada
-aaaaaaaaaadb
-aaaaaaaaaadc
-aaaaaaaaaadd
-aaaaaaaaabaa
-aaaaaaaaabab
-aaaaaaaaabac
-aaaaaaaaabad
-aaaaaaaaabba
-aaaaaaaaabbb
-aaaaaaaaabbc
-aaaaaaaaabbd
-aaaaaaaaabca
-aaaaaaaaabcb
-aaaaaaaaabcc
-aaaaaaaaabcd
-aaaaaaaaabda
-aaaaaaaaabdb
-aaaaaaaaabdc
-aaaaaaaaabdd
-aaaaaaaaacaa
-aaaaaaaaacab
-aaaaaaaaacac
-aaaaaaaaacad
-aaaaaaaaacba
-aaaaaaaaacbb
-aaaaaaaaacbc
-aaaaaaaaacbd
-aaaaaaaaacca
-aaaaaaaaaccb
-aaaaaaaaaccc
-aaaaaaaaaccd
-aaaaaaaaacda
-aaaaaaaaacdb
-aaaaaaaaacdc
-aaaaaaaaacdd
-aaaaaaaaadaa
-aaaaaaaaadab
-aaaaaaaaadac
-aaaaaaaaadad
-aaaaaaaaadba
-aaaaaaaaadbb
-aaaaaaaaadbc
-aaaaaaaaadbd
-aaaaaaaaadca
-aaaaaaaaadcb
-aaaaaaaaadcc
-aaaaaaaaadcd
-aaaaaaaaadda
-aaaaaaaaaddb
-aaaaaaaaaddc
-aaaaaaaaaddd
-aaaaaaaabaaa
-aaaaaaaabaab
-aaaaaaaabaac
-aaaaaaaabaad
-aaaaaaaababa
-aaaaaaaababb
-aaaaaaaababc
-aaaaaaaababd
-aaaaaaaabaca
-aaaaaaaabacb
-aaaaaaaabacc
-aaaaaaaabacd
-aaaaaaaabada
-aaaaaaaabadb
-aaaaaaaabadc
-aaaaaaaabadd
-aaaaaaaabbaa
-aaaaaaaabbab
-aaaaaaaabbac
-aaaaaaaabbad
-aaaaaaaabbba
-aaaaaaaabbbb
-aaaaaaaabbbc
-aaaaaaaabbbd
-aaaaaaaabbca
-aaaaaaaabbcb
-aaaaaaaabbcc
-aaaaaaaabbcd
-aaaaaaaabbda
-aaaaaaaabbdb
-aaaaaaaabbdc
-aaaaaaaabbdd
-aaaaaaaabcaa
-aaaaaaaabcab
-aaaaaaaabcac
-aaaaaaaabcad
-100
-aaaaaaaabcba aaaaaaaabcbb
-aaaaaaaabcbc aaaaaaaabcbd
-aaaaaaaabcca aaaaaaaabccb
-aaaaaaaabccc aaaaaaaabccd
-aaaaaaaabcda aaaaaaaabcdb
-aaaaaaaabcdc aaaaaaaabcdd
-aaaaaaaabdaa aaaaaaaabdab
-aaaaaaaabdac aaaaaaaabdad
-aaaaaaaabdba aaaaaaaabdbb
-aaaaaaaabdbc aaaaaaaabdbd
-aaaaaaaabdca aaaaaaaabdcb
-aaaaaaaabdcc aaaaaaaabdcd
-aaaaaaaabdda aaaaaaaabddb
-aaaaaaaabddc aaaaaaaabddd
-aaaaaaaacaaa aaaaaaaacaab
-aaaaaaaacaac aaaaaaaacaad
-aaaaaaaacaba aaaaaaaacabb
-aaaaaaaacabc aaaaaaaacabd
-aaaaaaaacaca aaaaaaaacacb
-aaaaaaaacacc aaaaaaaacacd
-aaaaaaaacada aaaaaaaacadb
-aaaaaaaacadc aaaaaaaacadd
-aaaaaaaacbaa aaaaaaaacbab
-aaaaaaaacbac aaaaaaaacbad
-aaaaaaaacbba aaaaaaaacbbb
-aaaaaaaacbbc aaaaaaaacbbd
-aaaaaaaacbca aaaaaaaacbcb
-aaaaaaaacbcc aaaaaaaacbcd
-aaaaaaaacbda aaaaaaaacbdb
-aaaaaaaacbdc aaaaaaaacbdd
-aaaaaaaaccaa aaaaaaaaccab
-aaaaaaaaccac aaaaaaaaccad
-aaaaaaaaccba aaaaaaaaccbb
-aaaaaaaaccbc aaaaaaaaccbd
-aaaaaaaaccca aaaaaaaacccb
-aaaaaaaacccc aaaaaaaacccd
-aaaaaaaaccda aaaaaaaaccdb
-aaaaaaaaccdc aaaaaaaaccdd
-aaaaaaaacdaa aaaaaaaacdab
-aaaaaaaacdac aaaaaaaacdad
-aaaaaaaacdba aaaaaaaacdbb
-aaaaaaaacdbc aaaaaaaacdbd
-aaaaaaaacdca aaaaaaaacdcb
-aaaaaaaacdcc aaaaaaaacdcd
-aaaaaaaacdda aaaaaaaacddb
-aaaaaaaacddc aaaaaaaacddd
-aaaaaaaadaaa aaaaaaaadaab
-aaaaaaaadaac aaaaaaaadaad
-aaaaaaaadaba aaaaaaaadabb
-aaaaaaaadabc aaaaaaaadabd
-aaaaaaaadaca aaaaaaaadacb
-aaaaaaaadacc aaaaaaaadacd
-aaaaaaaadada aaaaaaaadadb
-aaaaaaaadadc aaaaaaaadadd
-aaaaaaaadbaa aaaaaaaadbab
-aaaaaaaadbac aaaaaaaadbad
-aaaaaaaadbba aaaaaaaadbbb
-aaaaaaaadbbc aaaaaaaadbbd
-aaaaaaaadbca aaaaaaaadbcb
-aaaaaaaadbcc aaaaaaaadbcd
-aaaaaaaadbda aaaaaaaadbdb
-aaaaaaaadbdc aaaaaaaadbdd
-aaaaaaaadcaa aaaaaaaadcab
-aaaaaaaadcac aaaaaaaadcad
-aaaaaaaadcba aaaaaaaadcbb
-aaaaaaaadcbc aaaaaaaadcbd
-aaaaaaaadcca aaaaaaaadccb
-aaaaaaaadccc aaaaaaaadccd
-aaaaaaaadcda aaaaaaaadcdb
-aaaaaaaadcdc aaaaaaaadcdd
-aaaaaaaaddaa aaaaaaaaddab
-aaaaaaaaddac aaaaaaaaddad
-aaaaaaaaddba aaaaaaaaddbb
-aaaaaaaaddbc aaaaaaaaddbd
-aaaaaaaaddca aaaaaaaaddcb
-aaaaaaaaddcc aaaaaaaaddcd
-aaaaaaaaddda aaaaaaaadddb
-aaaaaaaadddc aaaaaaaadddd
-aaaaaaabaaaa aaaaaaabaaab
-aaaaaaabaaac aaaaaaabaaad
-aaaaaaabaaba aaaaaaabaabb
-aaaaaaabaabc aaaaaaabaabd
-aaaaaaabaaca aaaaaaabaacb
-aaaaaaabaacc aaaaaaabaacd
-aaaaaaabaada aaaaaaabaadb
-aaaaaaabaadc aaaaaaabaadd
-aaaaaaababaa aaaaaaababab
-aaaaaaababac aaaaaaababad
-aaaaaaababba aaaaaaababbb
-aaaaaaababbc aaaaaaababbd
-aaaaaaababca aaaaaaababcb
-aaaaaaababcc aaaaaaababcd
-aaaaaaababda aaaaaaababdb
-aaaaaaababdc aaaaaaababdd
-aaaaaaabacaa aaaaaaabacab
-aaaaaaabacac aaaaaaabacad
-aaaaaaabacba aaaaaaabacbb
-aaaaaaabacbc aaaaaaabacbd
-aaaaaaabacca aaaaaaabaccb
-aaaaaaabaccc aaaaaaabaccd
-100
-aaaaaaabacda aaaaaaabacdb
-aaaaaaabacdc aaaaaaabacdd
-aaaaaaabadaa aaaaaaabadab
-aaaaaaabadac aaaaaaabadad
-aaaaaaabadba aaaaaaabadbb
-aaaaaaabadbc aaaaaaabadbd
-aaaaaaabadca aaaaaaabadcb
-aaaaaaabadcc aaaaaaabadcd
-aaaaaaabadda aaaaaaabaddb
-aaaaaaabaddc aaaaaaabaddd
-aaaaaaabbaaa aaaaaaabbaab
-aaaaaaabbaac aaaaaaabbaad
-aaaaaaabbaba aaaaaaabbabb
-aaaaaaabbabc aaaaaaabbabd
-aaaaaaabbaca aaaaaaabbacb
-aaaaaaabbacc aaaaaaabbacd
-aaaaaaabbada aaaaaaabbadb
-aaaaaaabbadc aaaaaaabbadd
-aaaaaaabbbaa aaaaaaabbbab
-aaaaaaabbbac aaaaaaabbbad
-aaaaaaabbbba aaaaaaabbbbb
-aaaaaaabbbbc aaaaaaabbbbd
-aaaaaaabbbca aaaaaaabbbcb
-aaaaaaabbbcc aaaaaaabbbcd
-aaaaaaabbbda aaaaaaabbbdb
-aaaaaaabbbdc aaaaaaabbbdd
-aaaaaaabbcaa aaaaaaabbcab
-aaaaaaabbcac aaaaaaabbcad
-aaaaaaabbcba aaaaaaabbcbb
-aaaaaaabbcbc aaaaaaabbcbd
-aaaaaaabbcca aaaaaaabbccb
-aaaaaaabbccc aaaaaaabbccd
-aaaaaaabbcda aaaaaaabbcdb
-aaaaaaabbcdc aaaaaaabbcdd
-aaaaaaabbdaa aaaaaaabbdab
-aaaaaaabbdac aaaaaaabbdad
-aaaaaaabbdba aaaaaaabbdbb
-aaaaaaabbdbc aaaaaaabbdbd
-aaaaaaabbdca aaaaaaabbdcb
-aaaaaaabbdcc aaaaaaabbdcd
-aaaaaaabbdda aaaaaaabbddb
-aaaaaaabbddc aaaaaaabbddd
-aaaaaaabcaaa aaaaaaabcaab
-aaaaaaabcaac aaaaaaabcaad
-aaaaaaabcaba aaaaaaabcabb
-aaaaaaabcabc aaaaaaabcabd
-aaaaaaabcaca aaaaaaabcacb
-aaaaaaabcacc aaaaaaabcacd
-aaaaaaabcada aaaaaaabcadb
-aaaaaaabcadc aaaaaaabcadd
-aaaaaaabcbaa aaaaaaabcbab
-aaaaaaabcbac aaaaaaabcbad
-aaaaaaabcbba aaaaaaabcbbb
-aaaaaaabcbbc aaaaaaabcbbd
-aaaaaaabcbca aaaaaaabcbcb
-aaaaaaabcbcc aaaaaaabcbcd
-aaaaaaabcbda aaaaaaabcbdb
-aaaaaaabcbdc aaaaaaabcbdd
-aaaaaaabccaa aaaaaaabccab
-aaaaaaabccac aaaaaaabccad
-aaaaaaabccba aaaaaaabccbb
-aaaaaaabccbc aaaaaaabccbd
-aaaaaaabccca aaaaaaabcccb
-aaaaaaabcccc aaaaaaabcccd
-aaaaaaabccda aaaaaaabccdb
-aaaaaaabccdc aaaaaaabccdd
-aaaaaaabcdaa aaaaaaabcdab
-aaaaaaabcdac aaaaaaabcdad
-aaaaaaabcdba aaaaaaabcdbb
-aaaaaaabcdbc aaaaaaabcdbd
-aaaaaaabcdca aaaaaaabcdcb
-aaaaaaabcdcc aaaaaaabcdcd
-aaaaaaabcdda aaaaaaabcddb
-aaaaaaabcddc aaaaaaabcddd
-aaaaaaabdaaa aaaaaaabdaab
-aaaaaaabdaac aaaaaaabdaad
-aaaaaaabdaba aaaaaaabdabb
-aaaaaaabdabc aaaaaaabdabd
-aaaaaaabdaca aaaaaaabdacb
-aaaaaaabdacc aaaaaaabdacd
-aaaaaaabdada aaaaaaabdadb
-aaaaaaabdadc aaaaaaabdadd
-aaaaaaabdbaa aaaaaaabdbab
-aaaaaaabdbac aaaaaaabdbad
-aaaaaaabdbba aaaaaaabdbbb
-aaaaaaabdbbc aaaaaaabdbbd
-aaaaaaabdbca aaaaaaabdbcb
-aaaaaaabdbcc aaaaaaabdbcd
-aaaaaaabdbda aaaaaaabdbdb
-aaaaaaabdbdc aaaaaaabdbdd
-aaaaaaabdcaa aaaaaaabdcab
-aaaaaaabdcac aaaaaaabdcad
-aaaaaaabdcba aaaaaaabdcbb
-aaaaaaabdcbc aaaaaaabdcbd
-aaaaaaabdcca aaaaaaabdccb
-aaaaaaabdccc aaaaaaabdccd
-aaaaaaabdcda aaaaaaabdcdb
-aaaaaaabdcdc aaaaaaabdcdd
-aaaaaaabddaa aaaaaaabddab
-aaaaaaabddac aaaaaaabddad
+40
+0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
